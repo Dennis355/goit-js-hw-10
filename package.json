@@ -5,8 +5,8 @@
   "homepage": "https://github.com/Dennis355/goit-js-hw-10.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /https://github.com/Dennis355/goit-js-hw-10/"
-  },
+    "build": "parcel build src/*.html --public-url /https://dennis355.github.io/goit-js-hw-10/"
+  },  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dennis355/goit-js-hw-10.git"
