@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Dennis355/goit-js-hw-10.git",
+  "homepage": "https://github.com/Dennis355/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /https://dennis355.github.io/goit-js-hw-10/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },  
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dennis355/goit-js-hw-10.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Dennis <alexander.repeta@gmail.com>",
@@ -33,3 +33,8 @@
   "browserslist": "> 0.25%, last 2 versions, not dead"
   
 }
+
+
+
+
+
